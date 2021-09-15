@@ -1,6 +1,6 @@
 [Inforgrafía](https://cincodias.elpais.com/cincodias/2021/05/05/companias/1620205074_988678.html)
 
-#Práctica 1: Comentario de la Infografía
+##Práctica 1: Comentario de la Infografía
 
 15.09.2021
 La infografía a desarrollar se trata de un cuadro eplicativo acerca de como cambia e precio de la luz dependeindo de la hora a la que se quiera potenciar su consumo en el hogar. 
