@@ -14,3 +14,7 @@ no todos los csv están listos para usarse ROWS AND COLUMNS: FILAS Y COLUMNAS (P
 DATOS BOOLEANOS: 0 o 1, true or false, sí o no, (todo lo que sea una posibilidad u otra) No hay tildes en la aplicación de datos ordenada por orden alfabético
 
 TABLA DE EJEMPLO DE LISTA DE NOMBRES DE CLASE FORMATO DE DATOS NUMÉRICO: COLUMNA CON DATOS Y APELLIDOS EN FORMATO NATURAL uppercase () lowercase() capital letter case hemos visto el tipo de formato que se llama "STRINGS": cadena de caracteres (tipo de dato en la tabla)
+
+CLASE PRÁCTICA 15.09.2021
+
+QUE ES EL PERIODISMO DE DATOS Hardware; como lo que es el aparato Software: parte ligera, que es parte lógica del ordenador FLORENCE NIGHTIGALE 1820-1910 Fue enfermera, escritora y estadística. Considerada pionera de la enfermería moderna. Creadora del primer modelo concpetual de enfermería. CHARLES MINARD 1781 -
