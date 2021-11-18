@@ -1,6 +1,9 @@
 ## PRÁCTICA 2: COMENTARIO CRÍTICO DE INFOGRAFÍA PERIODISMO DE DATOS
 
-CUATRO EJEMPLOS DE CÓMO SE ROBA EL AGUA SUBTERRÁNEA EN ESPAÑA A COSTA DE ESQUILMAR ACUÍFEROS https://www.eldiario.es/sociedad/cuatro-ejemplos-roba-agua-subterranea-espana-costa-esquilmar-acuiferos_1_8407961.html
+CUATRO EJEMPLOS DE CÓMO SE ROBA EL AGUA SUBTERRÁNEA EN ESPAÑA A COSTA DE ESQUILMAR ACUÍFEROS:
+[Infografía robo del agua subterránea en España](https://www.eldiario.es/sociedad/cuatro-ejemplos-roba-agua-subterranea-espana-costa-esquilmar-acuiferos_1_8407961.html)
+
+![La presión sobre los principales acuíferos españoles](imagenes-infografia-2/infografía1)
 
 El artículo de eldiario.es que hemos escogido para realizar el comentario crítico de esta infografía tiene como tema principal el "saqueo hídrico" de los cuatro en los depósitos naturales más importantes de España como son Doñana, Los Arenales, Daimiel y el Campo de Cartagena.
 
@@ -13,3 +16,4 @@ La segunda infografía que se nos presenta en este artículo trata acerca del vo
 # Conclusión 
 
 Gracias a esta infografía podemos ver las dimensiones del problema de la extracción ilegal de agua de acuíferos para uso particular. La presión constante del regadío intensivo, y más si es ilegal, afecta de forma directa a la recarga de agua dulce de todas las lagunas cercanas a los acuíferos. En esas aguas ha viajado un cantidad ingente de fertilizantes agrícolas que han derivado de la eutrofización de las lagunas y el desastre ecológico que han evidenciado muchos casos debido al desequilibrio del ecositema.
+
