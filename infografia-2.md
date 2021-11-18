@@ -3,7 +3,7 @@
 CUATRO EJEMPLOS DE CÓMO SE ROBA EL AGUA SUBTERRÁNEA EN ESPAÑA A COSTA DE ESQUILMAR ACUÍFEROS:
 [Infografía robo del agua subterránea en España](https://www.eldiario.es/sociedad/cuatro-ejemplos-roba-agua-subterranea-espana-costa-esquilmar-acuiferos_1_8407961.html)
 
-![La presión sobre los principales acuíferos españoles](imagenes-infografia-2/infografía1.jpg)
+![La presión sobre los principales acuíferos españoles](imagenes-infografia-2/infografía1.jpeg)
 
 El artículo de eldiario.es que hemos escogido para realizar el comentario crítico de esta infografía tiene como tema principal el "saqueo hídrico" de los cuatro en los depósitos naturales más importantes de España como son Doñana, Los Arenales, Daimiel y el Campo de Cartagena.
 
