@@ -3,7 +3,6 @@
 CUATRO EJEMPLOS DE CÓMO SE ROBA EL AGUA SUBTERRÁNEA EN ESPAÑA A COSTA DE ESQUILMAR ACUÍFEROS:
 [Infografía robo del agua subterránea en España](https://www.eldiario.es/sociedad/cuatro-ejemplos-roba-agua-subterranea-espana-costa-esquilmar-acuiferos_1_8407961.html)
 
-<<<<<<< HEAD
 ![La presión sobre los principales acuíferos españoles](imagenes-infografia-2/infografia1.jpeg)
 =======
 ![La presión sobre los principales acuíferos españoles](imagenes-infografia-2/infografía1.jpeg)
