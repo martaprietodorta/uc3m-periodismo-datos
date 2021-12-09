@@ -1,6 +1,6 @@
 ## PRÁCTICA 4 DATOS: TU HISTORIA DE PERIODISMO DE DATOS
 
-![Gráfico hashtags días conmemorativos](imagen-grafico/grafico-practica-4.png)
+![Gráfico hashtags días conmemorativos](/ejercicios/imagen-grafico/grafico-practica-4.png)
 
 NOTICIA O HISTORIA DEL GRÁFICO
 
