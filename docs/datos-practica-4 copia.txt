@@ -1,6 +1,0 @@
-Column 2,Column 4,prueba,tweets
-DiaInternacionalDeLaFelicidad,11835,23818,2
-FelizDiadeLaMadre,11761,568817,16
-FelizDiaDeLasMadres,16571,55776,2
-FelizDiaDelPadre,12880,526645,14
-FelizDiaDelTrabajador,29795,63797,2
