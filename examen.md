@@ -72,7 +72,8 @@ A la hora de listar, copiar, mover y otras operaciones se pueden usar las wildca
 
 ## 46. ¿Qué función tiene la almohadilla en Markdown y en un programa de la shell? Razona tu respuesta.
 
-En Markdown, la almohadilla (#) funciona como un carácter que indica un encabezamiento de primer nivel (<h1> en HTML). Sin embargo, en los archivos de configuración de la shell, la almohadilla (#), cuando aparece al principio de una línea, indica que esa línea está comentada, es decir, que contiene indicaciones para el lector de la plantilla pero el programa no la va a leer y ejecutar. 
+En Markdown, la almohadilla funciona como un carácter que indica un encabezamiento de primer nivel h1. Sin embargo, en los archivos de configuración de la shell, la almohadilla, cuando aparece al principio de una línea, indica que esa línea está comentada, es decir, que contiene indicaciones para el lector de la plantilla pero el programa no la va a leer y ejecutar. 
+	
 ## 12. Elige una URL de una noticia de un medio de comunicación y explícala tal como hicimos en clase.
 
 La URL o Unified Resource Locator o localizador de recursos uniformes es la dirección web. La URL junto con el hipertexto (expresado en HTML) y HTTP son conceptos clave para la web.
